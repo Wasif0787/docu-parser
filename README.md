@@ -1,6 +1,6 @@
 ## DOCU-Parser - Document Extraction
 
-### Live Link :[https://docuville-assessment-wasif.netlify.app/]("https://docuville-assessment-wasif.netlify.app/)
+### Live Link :[https://docuparser.netlify.app](https://docuparser.netlify.app)
 
 Overview
 DocuVille is a document extraction tool designed to capture key information from images of important documents like passports, driver's licenses, and other identification forms. The project utilizes Google Vision API for text extraction and applies regular expressions to parse and extract specific details like the name, document number, and expiration date.
