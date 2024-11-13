@@ -46,7 +46,7 @@ Make sure you have the following installed:
 
 ```
    git clone https://github.com/Wasif0787/docu-parser
-   cd DocuVille_Intern_Technical_Assessment_Wasif
+   cd docu-parser
 ```
 
 2. Frontend Setup
