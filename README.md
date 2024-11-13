@@ -45,7 +45,7 @@ Make sure you have the following installed:
 - Google Cloud Project with Vision API enabled
 
 ```
-   git clone https://github.com/Wasif0787/DocuVille_Intern_Technical_Assessment_Wasif.git
+   git clone https://github.com/Wasif0787/docu-parser
    cd DocuVille_Intern_Technical_Assessment_Wasif
 ```
 
